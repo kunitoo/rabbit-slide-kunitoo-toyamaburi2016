@@ -1,0 +1,24 @@
+= Ruby のてざわり
+
+: subtitle
+   Ruby でプログラミングするときに感じること
+: author
+   Kunihiko Ito
+: institution
+   ESM
+: content-source
+   富山合同勉強会2016
+: date
+   2016-01-30
+: allotted-time
+   15m
+: theme
+   rabbit
+
+= self
+
+Kunihiko Ito (@kunitoo)
+
+  # image
+  # src = images/kunitoo.jpg
+  # relative_height = 60
